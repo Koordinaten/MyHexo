@@ -7,15 +7,15 @@ abbrlink: 8f147ee5
 date: 2019-11-04 13:36:49
 ---
 
-- 备份源列表
+备份源列表
 	```
 	sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak
 	```
-- 修改sources.list文件
+修改sources.list文件
 	```
 	sudo gedit /etc/apt/sources.list
 	```
-- 编辑 /etc/apt/sources.list 文件，更改为阿里云镜像源
+编辑 /etc/apt/sources.list 文件，更改为阿里云镜像源
 	```
 	#  阿里源
 	deb http://mirrors.aliyun.com/ubuntu/ bionic main restricted universe multiverse
@@ -29,11 +29,11 @@ date: 2019-11-04 13:36:49
 	deb-src http://mirrors.aliyun.com/ubuntu/ bionic-proposed main restricted universe multiverse
 	deb-src http://mirrors.aliyun.com/ubuntu/ bionic-backports main restricted universe multiverse
 	```
-- 更新并升级
+更新并升级
 	```
 	sudo apt-get update && sudo apt-get upgrade
 	```
-- 其他源
+其他源
 
 	```
 	# 清华源

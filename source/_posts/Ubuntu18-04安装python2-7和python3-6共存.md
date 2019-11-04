@@ -7,6 +7,8 @@ categories: Ubuntu
 tags: [笔记,python]
 ---
 
+---
+
 ## 安装python2.7
 
 ```
