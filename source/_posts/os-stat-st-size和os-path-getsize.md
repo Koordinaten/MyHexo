@@ -1,8 +1,8 @@
 ---
 title: os.stat().st_size 和 os.path.getsize()
 comments: true
-categories: python
-tags: [笔记,python]
+categories: 笔记
+tags: python
 abbrlink: 435f58aa
 date: 2019-11-04 13:28:20
 ---

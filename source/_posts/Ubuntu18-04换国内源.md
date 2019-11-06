@@ -1,8 +1,8 @@
 ---
 title: Ubuntu18.04换国内源
 comments: true
-categories: Ubuntu
-tags: [笔记,换源]
+categories: 笔记
+tags: [Ubuntu ,换源]
 abbrlink: 8f147ee5
 date: 2019-11-04 13:36:49
 ---

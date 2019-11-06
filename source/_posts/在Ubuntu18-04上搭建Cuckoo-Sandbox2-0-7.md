@@ -1,10 +1,8 @@
 ---
 title: 在Ubuntu18.04上搭建Cuckoo Sandbox2.0.7
 comments: true
-categories: Ubuntu
-tags:
-  - 笔记
-  - Cuckoo Sandbox
+categories: 笔记
+tags: [Cuckoo Sandbox ,Ubuntu]
 abbrlink: ff13853b
 date: 2019-11-04 13:37:21
 ---

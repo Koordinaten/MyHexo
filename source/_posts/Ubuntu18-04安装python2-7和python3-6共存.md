@@ -3,8 +3,8 @@ title: Ubuntu18.04安装python2.7和python3.6共存
 comments: true
 abbrlink: e6efc55d
 date: 2019-11-04 13:36:20
-categories: Ubuntu
-tags: [笔记,python]
+categories: 笔记
+tags: [Ubuntu ,python]
 ---
 
 ---

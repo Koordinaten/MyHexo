@@ -1,9 +1,9 @@
 ---
 title: Ubuntu18.04安装MySQL5.7
 comments: true
-categories: Ubuntu
+categories: 笔记
 tags:
-  - 笔记
+  - Ubuntu
   - MySQL
 abbrlink: a958b182
 date: 2019-11-04 13:36:00
