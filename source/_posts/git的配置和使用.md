@@ -1,9 +1,10 @@
 ---
 title: git的配置和使用
 comments: true
-date: 2019-11-06 09:12:38
 categories: 笔记
 tags: git
+abbrlink: 2415892f
+date: 2019-11-06 09:12:38
 ---
 
 ---

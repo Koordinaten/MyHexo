@@ -1,9 +1,10 @@
 ---
 title: 安装Ubuntu18.04后做的事
 comments: true
-date: 2019-11-06 09:12:17
 categories: 笔记
 tags: Ubuntu
+abbrlink: e139eb9d
+date: 2019-11-06 09:12:17
 ---
 
 ---
