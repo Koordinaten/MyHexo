@@ -127,7 +127,7 @@ menu:
   home: / || home
   categories: /categories/ || th
   tags: /tags/ || tags
-  books: /books/ || book
+  Books: /books/ || book
   archives: /archives/ || archive
   about: /about/ || user
   #schedule: /schedule/ || calendar
