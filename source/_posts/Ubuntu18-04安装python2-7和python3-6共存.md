@@ -34,6 +34,18 @@ pip -V
 whereis python
 whereis pip
 ```
+
+## 设置清华源
+```
+mkdir .pip && cd .pip && touch pip.conf && gedit pip.conf
+```
+
+**pip.conf**
+```
+[global]
+index-url = https://pypi.tuna.tsinghua.edu.cn/simple
+```
+
 ## 升级pip到对新版本
 
 ```
